@@ -4,13 +4,13 @@ body {
   font-family: sans-serif;
   display: block;
   text-align: left;
-  width: 800px;
-  margin: 0 auto;
+  width: 1700px;
+  margin: auto;
 }
 
 
-/* Format the banner image on the home page */
 img.home-banner {
-    padding-top: 60px;
-    padding-bottom: 20px;
+  padding-top: 60px;
+  padding-bottom: 20px;
+  width:100%;  
 }
