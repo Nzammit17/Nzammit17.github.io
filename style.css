@@ -7,3 +7,9 @@ body {
   width: 800px;
   margin: 0 auto;
 }
+
+/* Format the banner image on the home page */
+img.home-banner {
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
